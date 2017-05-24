@@ -1,6 +1,7 @@
 <html>
 <head>
 </head>
-<boby>
+<body>
+<p>Hello, world1!</p>
 </body>
 </html>
