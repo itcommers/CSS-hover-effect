@@ -13,7 +13,7 @@ best cod
 		<li>5</li>
 		<li>6</li>
 	</ul>
-<p>Hello, your profile was among someone with whom I already connected. I'm engaged in web development.
+<p>Hello, I'm engaged in web development.
 </p>
 </body>
 </html>
